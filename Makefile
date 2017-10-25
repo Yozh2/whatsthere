@@ -37,9 +37,6 @@ test:
 	$(WRITE) "testfiles subdirectory / display only three most important\n" $(TOLOG)
 	$(EXECUTABLE) $(TESTFILES) total 3 $(TOLOG)
 
-	$(WRITE) "testfiles subdirectory / display only three most important\n" $(TOLOG)
-	$(EXECUTABLE) $(TESTFILES) total 3 $(TOLOG)
-
 	$(WRITE) "testfiles subdirectory / display entries\n" $(TOLOG)
 	$(EXECUTABLE) $(TESTFILES) entries 99 $(TOLOG)
 

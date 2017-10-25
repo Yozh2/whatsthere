@@ -166,10 +166,9 @@ Note that the program will clean the directory itself when restarting tests. All
 
 ---
 
-## Note
-
-## Authors
+## Author
 
 * **Nikolai Gaiduchenko** - *MIPT student, 515 group* - [Yozh2](https://github.com/Yozh2)
 
 ## Acknowledgments
+Special thanks to **Tatyana Derbysheva** for useful tips.
